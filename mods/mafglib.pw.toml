@@ -1,0 +1,13 @@
+name = "MaFgLib"
+filename = "MaFgLib-0.3.6-mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b13401a474b605e5945508c228913b58910e29c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6759428
+project-id = 910766

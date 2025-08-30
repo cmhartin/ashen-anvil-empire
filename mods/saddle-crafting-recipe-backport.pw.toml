@@ -1,0 +1,13 @@
+name = "Saddle Crafting Recipe Backport"
+filename = "craftable-saddles-backport-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53d2c93ec54f0d8828e3ce9e59c88a323df73dc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6690535
+project-id = 1293373

@@ -1,0 +1,13 @@
+name = "Stackcraft"
+filename = "stackcraft-1.21.1-0.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b31bd411064cbda79ef96509547e3119f09c163"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6392107
+project-id = 1101276

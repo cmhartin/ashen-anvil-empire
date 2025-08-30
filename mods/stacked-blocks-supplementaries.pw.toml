@@ -1,0 +1,13 @@
+name = "Stacked Blocks: Supplementaries"
+filename = "stackedblockssupplementaries-25.05.06-1.21-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c5ef65455b7e4fb2decd8b90fef44c00f6dba3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6503179
+project-id = 1259081

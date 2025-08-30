@@ -1,0 +1,13 @@
+name = "BoccHUD"
+filename = "BoccHUD-0.3.1-mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01b8137c0fcc9fe9a86e289cdfce46b26ecfabf7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6447669
+project-id = 916504

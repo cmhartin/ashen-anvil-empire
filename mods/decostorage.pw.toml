@@ -1,0 +1,13 @@
+name = "[STORAGE UPGRADES] Decorative Storage"
+filename = "deco_storage-3.3408-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b7f9ba0eddf88cb19dd3356cd5909ac3b428af6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6843128
+project-id = 826577
