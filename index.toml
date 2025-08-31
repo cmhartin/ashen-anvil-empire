@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "1e55e6873a5a1dcf5a326e409c2cc856ffbc950183fe61f96e76e778e1cbe4a3"
+hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
@@ -616,6 +616,11 @@ hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "044abd44322fdea17184fecefa77b0f0e8bf550161c70518a16917b76821b427"
+metafile = true
+
+[[files]]
 file = "mods/only-hammers-and-excavators.pw.toml"
 hash = "fca8f2c37310594749f79c2105f801adbd06a19a279fa348fa4fa3039966aa45"
 metafile = true
@@ -723,6 +728,11 @@ metafile = true
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "308e0d918ea91f029cf72db5a13b415e1bcdca462c1a021a5f27d77c4fee253c"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "0218c576d635d5d514f96f981f627932e752de48ef794e6817da1872e92eead0"
 metafile = true
 
 [[files]]
