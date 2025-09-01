@@ -919,3 +919,13 @@ metafile = true
 file = "mods/yungs-bridges-neoforge.pw.toml"
 hash = "400918237e259461717e6d85ad9e648054e901b372e1cfc180622e276f3df8c7"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "afa473edadc952a010fd50dd39763e66f477eaa06f5740a4f593a19a419bf61f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-waystones-texture.pw.toml"
+hash = "f64002469dee1cadc9280a041f4c9df60dcb50422eb5f90fd11ec534f198517f"
+metafile = true
