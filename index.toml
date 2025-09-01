@@ -506,11 +506,6 @@ hash = "f396d2451d69bd7ccc614896063ae9fec63f42f916486c571c6fc00f6383c673"
 metafile = true
 
 [[files]]
-file = "mods/immersive-ui.pw.toml"
-hash = "4a5e7ba2003a7c5df99905c4952c43e011f7b29a7fad9e20457a76a72e92fde2"
-metafile = true
-
-[[files]]
 file = "mods/in-control.pw.toml"
 hash = "c961d173988906e7569c79ccadef7867964e091b7cd3c6af3ae0a66c0d1f1752"
 metafile = true
