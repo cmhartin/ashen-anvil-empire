@@ -201,6 +201,11 @@ hash = "8701d2de2aed028e47e6281adde0c0582e92518f72eac2e3774093ee6e51b3be"
 metafile = true
 
 [[files]]
+file = "mods/create-easy-stock-ticker.pw.toml"
+hash = "b530d22168fbd755c6a273d80d3f5a843c637b2b3445ffb84a5d126d12428055"
+metafile = true
+
+[[files]]
 file = "mods/create-ender-link.pw.toml"
 hash = "df620546876d0e04238f50420177ecf83a964b38033d9007634326683af0bf44"
 metafile = true
