@@ -666,6 +666,11 @@ hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
 metafile = true
 
 [[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "3c45ba9f0f41a5d704a1cef9c65a88b4bce636608bb0de33f7365512fe448a26"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "5a355cacb43c599215f300c590829e86a7177ed5d62f3589918e2201532b1d41"
 metafile = true
@@ -929,6 +934,10 @@ metafile = true
 file = "mods/yungs-bridges-neoforge.pw.toml"
 hash = "400918237e259461717e6d85ad9e648054e901b372e1cfc180622e276f3df8c7"
 metafile = true
+
+[[files]]
+file = "other/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
