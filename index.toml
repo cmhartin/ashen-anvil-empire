@@ -440,6 +440,11 @@ hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
 metafile = true
 
 [[files]]
+file = "mods/endertanks.pw.toml"
+hash = "05a8671f7dbfe5c902c2c89cb249aeeb8d89beaec8e210db4a497eca5b628184"
+metafile = true
+
+[[files]]
 file = "mods/endremastered.pw.toml"
 hash = "d79818e801019eeaedc8a3188d0d1ed778c9d261c6fdda12c20470e5b07b8994"
 metafile = true
@@ -827,6 +832,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "5ba9a417876ea4139a20bf9d89e6bab3521d27d5e6caca925f12b74127564eed"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "1445cd1fa6a5310b2d72322c264e36e5184591d0f41f8bf10afbaf0c1c6beadf"
 metafile = true
 
 [[files]]
