@@ -211,11 +211,6 @@ hash = "df620546876d0e04238f50420177ecf83a964b38033d9007634326683af0bf44"
 metafile = true
 
 [[files]]
-file = "mods/create-escalated.pw.toml"
-hash = "cde4872a58b202f6773581f2e0de7d3f62850aca7a077adf162a5e25724b55cc"
-metafile = true
-
-[[files]]
 file = "mods/create-stam1o-tweaks.pw.toml"
 hash = "17e20682a1ca21de7c0893eba426fcc698b23c8670bc91506e45ef0f51125b87"
 metafile = true
