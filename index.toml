@@ -1,6 +1,90 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/amendments-client.toml"
+hash = "c595c20a1203c081dc9423d4f9f0e87d6e104c6329001117ab12d282614e9205"
+
+[[files]]
+file = "config/betterdays-client.toml"
+hash = "35304de0d0a03b0724b55eb5375b79103912c034cef7bf0c728d3aa4b17f5014"
+
+[[files]]
+file = "config/bettergrass.json5"
+hash = "66dc3f3e9aceacbbad115d7d7f123cbfe0007d61305ba2b2011b48ffeac60c6d"
+
+[[files]]
+file = "config/bocchud.json"
+hash = "1802689b4293eefcf3e27c7973522e23e956046514904cff4b9943ea9dad86cf"
+
+[[files]]
+file = "config/copycats-client.toml"
+hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "e20f6769fd946b918f24cfd54a422a599faa43394ee9a33012e645102a366da3"
+
+[[files]]
+file = "config/create_ez_stock_ticker-client.toml"
+hash = "82400e43f5dee0d43d5aaf38795311cd3e5ec91fc161e4115fd7ebdfff408c1a"
+
+[[files]]
+file = "config/create_hypertube-client.toml"
+hash = "25400eab973ba2d5cee6b6beaba0eecb75d597843124c2596ea7f4d0d2622749"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
+
+[[files]]
+file = "config/easyanvils-client.toml"
+hash = "e7f75aee2a53eee492917c12e6ee3f7f69808877e59e6b2e8024408e961d8754"
+
+[[files]]
+file = "config/effortless-client.toml"
+hash = "0409912dfb180333998d52195b3ca10b10f579bdff61b9a3ff347b25e81f6f67"
+
+[[files]]
+file = "config/effortlessbuilding-client.toml"
+hash = "caf00a5766e307c70e797847761f39e5f65bcd8cc1de01191f54ba7026087e0c"
+
+[[files]]
+file = "config/emi.css"
+hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "49c31f039ecaa30817ce0d89b98fa602dac4ad5b3972e7e2e0b5bfefe04615a8"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "0aef81f57e2afd3906cf175407fa0725c3186eae76f0708a87454eaa57c9d72c"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "d99eeb78d4fdf718210ae107c4485628c224720def17b3899c31a967e8bcb1fe"
+
+[[files]]
+file = "config/inventorysorter-client.toml"
+hash = "3036042e2f401f4cec98e0399fa52cc84f1a419388762c3d31f254d088cc143f"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "c298f506a9243beba0f3a3ca52199dc8058ac6d1e5357a533549bfd18fbdc63e"
+
+[[files]]
+file = "config/stackcraft-common.toml"
+hash = "c7023cb00363ad6d7e4bd98ea713fd2642eaef788a3e3b9c60e98c717cb9ec64"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "117ee85c8d889383388d4a8767b67755bb5a049073974168c211851da7015762"
+
+[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "c62eea66c7ebac3cc27e4d566af551fbc403185b5c7dc928e1be708f1e6bde7f"
 metafile = true
@@ -201,6 +285,11 @@ hash = "8701d2de2aed028e47e6281adde0c0582e92518f72eac2e3774093ee6e51b3be"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "d3e98bc94ab37c7bc6f536ff27f5449d0365033ae85b55ef0d92a5cf576bacc6"
+metafile = true
+
+[[files]]
 file = "mods/create-easy-stock-ticker.pw.toml"
 hash = "b530d22168fbd755c6a273d80d3f5a843c637b2b3445ffb84a5d126d12428055"
 metafile = true
@@ -208,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/create-ender-link.pw.toml"
 hash = "df620546876d0e04238f50420177ecf83a964b38033d9007634326683af0bf44"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "ec65f48e74ac39be1d5a99e0bc74fd1013abd9efcf361e52043990ff5fba4c2b"
 metafile = true
 
 [[files]]
