@@ -160,6 +160,11 @@ hash = "1a69dc193b78a56d431b46de0e0eaa928ef2586702128e5a26b15d8eaeab8f0f"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "8071f5bd344fcf5c1ecfd4dbf8830fcab70052931fdf17f372356df2e5bbb7b5"
+metafile = true
+
+[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "e103c47287d67da6fff96033391f904b3cf20f3cafe398f1ca1de3c641f213b4"
 metafile = true
