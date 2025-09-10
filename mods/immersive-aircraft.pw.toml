@@ -1,0 +1,13 @@
+name = "Immersive Aircraft [Fabric/Forge]"
+filename = "immersive_aircraft-1.4.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04fa93fa06c038a77e8a872cb2f160373b07523f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6972836
+project-id = 666014
