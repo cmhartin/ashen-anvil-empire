@@ -540,11 +540,6 @@ hash = "3d38d89c5adddec6a9c1352e3c4ced3f0c80639f1f11da237aac883e629998e8"
 metafile = true
 
 [[files]]
-file = "mods/goblin-traders.pw.toml"
-hash = "29abe36be13fe414e13125140f1c4fe373f7daf79a11ba511e0f77a47ea7f946"
-metafile = true
-
-[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "f6fe00aafaa353a72b0fed76650c57132b506aacb7d90bbeedf874909df7cdf5"
 metafile = true
