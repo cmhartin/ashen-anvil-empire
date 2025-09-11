@@ -1,0 +1,13 @@
+name = "Juvenile Preserve"
+filename = "juv_preserve-1.0.1211-neoforge-1.21.0-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yFwACx6Z/versions/tVglSIeI/juv_preserve-1.0.1211-neoforge-1.21.0-1.jar"
+hash-format = "sha512"
+hash = "a4a1dfb2509c5cd20fa112b3891f1e68bb8f13d4de5b91d4cfbc55cb3dbc98c31c56687ccdc14eb4d18b456e78ccd4d31e9f8f1bdc6718478fb14b28a13ceca5"
+
+[update]
+[update.modrinth]
+mod-id = "yFwACx6Z"
+version = "tVglSIeI"

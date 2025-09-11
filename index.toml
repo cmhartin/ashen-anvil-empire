@@ -650,6 +650,11 @@ hash = "87909f63d967ffe26cd2994a0addfb96bca50d1b3265fc35fe3174dc3e439800"
 metafile = true
 
 [[files]]
+file = "mods/juvenile-preserve.pw.toml"
+hash = "badbe0ec83c98476a7b88c725aeef98038aec88b18606962cc60bea6189db99f"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "cabf0b45e0c89eb8a95f67c3ff0344383f3ff88ab4266f298dea43be1edec123"
 metafile = true
